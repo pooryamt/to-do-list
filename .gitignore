@@ -1,0 +1,17 @@
+# Local task data
+tasks.json
+
+# Python cache files
+pycache/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+
+# Log files
+*.log
